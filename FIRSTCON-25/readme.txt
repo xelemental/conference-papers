@@ -1,0 +1,3 @@
+FIRSTCON25 was the 37th annual conference organized by the Forum of Incident Response and Security Teams [FIRST](https://www.first.org/), held in Copenhagen, Denmark in June 2025. The conference brought together global cybersecurity professionals, researchers, and incident responders to discuss the latest developments in threat intelligence, malware analysis, coordinated incident response, and global cyber threats.
+
+With a strong focus on collaboration and knowledge sharing, the event featured technical talks, hands-on workshops, and regional threat deep-dives. FIRSTCON25 continued to emphasize trust-driven security cooperation, and highlighted emerging challenges like APT activity, ransomware ecosystems, and supply chain threats.
